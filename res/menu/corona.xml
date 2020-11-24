@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Confirmed_person"
+        android:title="확진자"
+        android:icon="@drawable/confirmity"/>
+
+    <item
+        android:id="@+id/card_news"
+        android:title="카드뉴스"
+        android:icon="@drawable/news"/>
+
+
+</menu>
